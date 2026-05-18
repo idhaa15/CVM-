@@ -1,6 +1,6 @@
-================================================================
+
   CVM++ — Stack-Based Virtual Machine & Custom Compiler
-================================================================
+
   Language : C++17
   Platform : macOS / Linux
   Compiler : clang++ or g++
