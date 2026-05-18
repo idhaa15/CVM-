@@ -1,0 +1,10 @@
+let x = input;
+if x == 0 {
+    print 0;
+}
+if x == 1 {
+    let running = 1;
+    while running == 1 {
+        print 1;
+    }
+}

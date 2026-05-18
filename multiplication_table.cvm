@@ -1,0 +1,7 @@
+let n = input;
+let i = 1;
+while i < 11 {
+    let result = n * i;
+    print result;
+    let i = i + 1;
+}

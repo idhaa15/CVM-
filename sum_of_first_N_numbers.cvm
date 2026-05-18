@@ -1,0 +1,9 @@
+let n = input;
+let sum = 0;
+let i = 1;
+while i < n {
+    let sum = sum + i;
+    let i = i + 1;
+}
+let sum = sum + n;
+print sum;

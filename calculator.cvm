@@ -1,0 +1,8 @@
+let a = input;
+let b = input;
+let sum = a + b;
+let diff = a - b;
+let prod = a * b;
+print sum;
+print diff;
+print prod;

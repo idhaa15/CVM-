@@ -1,0 +1,3 @@
+let x = input;
+let result = x * x;
+print result;

@@ -1,0 +1,5 @@
+let n = input;
+while n > 0 {
+    print n;
+    let n = n - 1;
+}

@@ -1,0 +1,9 @@
+let n = input;
+let half = n / 2;
+let doubled = half * 2;
+if doubled == n {
+    print 1;
+}
+if doubled != n {
+    print 0;
+}

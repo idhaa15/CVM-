@@ -1,0 +1,5 @@
+let n = input;
+let square = n * n;
+let cube = n * n * n;
+print square;
+print cube;

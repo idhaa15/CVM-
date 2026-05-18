@@ -1,0 +1,5 @@
+let n = input;
+if n < 0 {
+    let n = 0 - n;
+}
+print n;

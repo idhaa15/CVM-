@@ -1,0 +1,11 @@
+let a = input;
+let b = input;
+if a < b {
+    print b;
+}
+if b < a {
+    print a;
+}
+if a == b {
+    print a;
+}
